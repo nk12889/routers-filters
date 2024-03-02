@@ -1,0 +1,15 @@
+{
+  "name": "3_routers-and-filters",
+  "version": "1.0.0",
+  "description": "This related to routers and filters",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "Server started"
+  },
+  "author": "Nitish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
